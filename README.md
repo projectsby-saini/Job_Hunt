@@ -86,7 +86,6 @@ job-hunt-portal/
 
 - **Frontend:** React, Tailwind CSS
 - **Build Tool:** Vite
-- **Authentication:** JSON Web Tokens (JWT)
 - **Other Tools:** Git, GitHub
 
 ## Contributing
