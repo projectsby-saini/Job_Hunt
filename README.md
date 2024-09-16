@@ -101,4 +101,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or questions, please contact me at:
 - **Email:** [divyanshsaini.mzn@gmail.com](mailto:divyanshsaini.mzn@gmail.com)
 
-### Live site Link: [Job Hunt](https://job-hero.netlify.app/)
+### Site Screenshots:
+
+![Screenshot 2024-09-16 164534](https://github.com/user-attachments/assets/b22ca33e-2163-4e8f-9f2b-f618a8f283c0)
+![Screenshot 2024-09-16 164553](https://github.com/user-attachments/assets/78bffea4-d6b2-4689-bffb-8537095b8418)
+![Screenshot 2024-09-16 164619](https://github.com/user-attachments/assets/4567719e-0970-48ed-b6fd-fa8c530e4f70)
+![Screenshot 2024-09-16 164652](https://github.com/user-attachments/assets/753e1722-0f16-486c-974d-e8d7b9aca01a)
+![Screenshot 2024-09-16 164714](https://github.com/user-attachments/assets/41f99464-239b-4796-8e5d-7edd02a7ddfc)
+
